@@ -26,3 +26,6 @@ npm install bcrypt
 -----------------------------------------------------
 Install Handlebars.js
 npm install express-handlebars
+----------------------------------------------------
+Install session (cookies):
+npm i express-session connect-session-sequelize
